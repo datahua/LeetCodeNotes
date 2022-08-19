@@ -1,7 +1,7 @@
 ### leetcode grinding
 
-
-8.1.2022 
+**? commit:comment**
+8.1.2022
 
 Let's see where solving 600 leetcode problems lead us to!
 
