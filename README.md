@@ -1,4 +1,4 @@
-### leetcode grinding
+# leetcode grinding
 
 ## Grinding Order: linked List -> Binary Tree -> DFS/BFS(searching) -> dynamic programming -> array -> sort (selection, bubble, quick, merge) -> stack/queue/heap -> graph -> tries -> union find
 
