@@ -2,7 +2,7 @@
 
 ## Grinding Order: linked List -> Binary Tree -> DFS/BFS(searching) -> dynamic programming -> array -> sort (selection, bubble, quick, merge) -> stack/queue/heap -> graph -> tries -> union find
 
-**? commit:comment**
+**comments**
 
 - 8.1.2022:
 
@@ -21,3 +21,20 @@ doing hard questions last two days, will get back to 5 minimum quota tmr
 - 9.2.2022:
 
 was moving my place in the last two days, algo dude back
+
+~~~py
+ # connect leaf nodes as linked List
+
+def connectLeafNodes(currentNode, head=None, previousNode=None):
+  if not currentNode:
+    return head, previousNode
+    
+  if isLeafNode(currentNode):
+    if previousNode is None:
+      head = currentNode
+    else:
+      previousNode.right = currentNode
+    previousNode = currentNode
+  leafHead, leftPreviousNode = connectLeafNodes(currentNode.left, head, previousNode)
+  return connectLeafNodes(currentNode.right, leftHead, leftPreviousNode)
+~~~
