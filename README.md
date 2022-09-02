@@ -20,4 +20,4 @@ doing hard questions last two days, will get back to 5 minimum quota tmr
 
 - 9.2.2022:
 
-was moving my place in the last two days
+was moving my place in the last two days, algo dude back
