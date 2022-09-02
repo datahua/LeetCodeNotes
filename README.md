@@ -1,5 +1,7 @@
 ### leetcode grinding
 
+> plan: linked List -> Binary Tree -> DFS/BFS(searching) -> dynamic programming -> array -> sort (selection, bubble, quick, merge) -> stack/queue/heap -> graph -> tries -> union find
+
 **? commit:comment**
 
 - 8.1.2022:
@@ -15,3 +17,7 @@ So, 10 * 10 + 20 * 5 = 200 -> 200 code problems will be solved in August, some o
 - 8.19.2022:
 
 doing hard questions last two days, will get back to 5 minimum quota tmr
+
+- 9.2.2022:
+
+was moving my place in the last two days
