@@ -1,6 +1,6 @@
 ### leetcode grinding
 
-> plan: linked List -> Binary Tree -> DFS/BFS(searching) -> dynamic programming -> array -> sort (selection, bubble, quick, merge) -> stack/queue/heap -> graph -> tries -> union find
+## Grinding Order: linked List -> Binary Tree -> DFS/BFS(searching) -> dynamic programming -> array -> sort (selection, bubble, quick, merge) -> stack/queue/heap -> graph -> tries -> union find
 
 **? commit:comment**
 
