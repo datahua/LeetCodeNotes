@@ -6,11 +6,11 @@
 
 - 8.1.2022:
 
-Let's see where solving 600 leetcode problems lead us to!
+Let's see to where solving 600 leetcode problems would lead me to!
 
 - 8.10.2022:
 
-I found 10 leetcode problems daily are only do-able if they are all at **easy** level. So I lower the quota to 5, with meidum and hard level problems involvded. 
+I found 10 leetcode problems daily are only do-able if they are all **easy**. So I lower the quota to 5, with meidum and hard level problems ones. 
 
 So, 10 * 10 + 20 * 5 = 200 -> 200 code problems will be solved in August, some of them will be re-do multiple times to ensure the accuracy as accuracy is more important than quantity.
 
@@ -23,7 +23,8 @@ doing hard questions last two days, will get back to 5 minimum quota tmr
 was moving my place in the last two days, algo dude back
 
 ~~~py
- # connect leaf nodes as linked List
+
+# crispy recursive call that connects leaf nodes into a linked List
 
 def connectLeafNodes(currentNode, head=None, previousNode=None):
   if not currentNode:
