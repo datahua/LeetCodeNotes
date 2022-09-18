@@ -42,4 +42,4 @@ def connectLeafNodes(currentNode, head=None, previousNode=None):
 
 - 9.18.2022:
 
-Got an offer of CS master program from Georgia Tech, hard work paid off, took a few days off celebrating it. back today
+Got an offer for CS master program from Georgia Tech, hard work paid off, took a few days off celebrating it. back today
